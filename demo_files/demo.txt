@@ -1,3 +1,0 @@
-This is a demo sentence. Please pay attention to the auto-completion and how it seemingly slows down the editor.
-
-What player is this going to affect the most?
