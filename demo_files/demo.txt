@@ -1,0 +1,1 @@
+This is a demo sentence. Please pay attention to the auto-completion and how it seemingly slows down the editor.
